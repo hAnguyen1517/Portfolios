@@ -1,0 +1,19 @@
+Ghost Town Name and State	Density
+_________________________	_______
+Calico, California              6.00
+Rhyolite, Nevada                1.00
+Goldfield, Arizona              2.50
+St. Elmo, Colorado              1.50
+Terlingua, Texas               10.00
+Virginia City, Montana          2.00
+Nevada City, Montana            2.50
+Bodie, California               0.45
+Cahawba, Alabama                1.10
+Kennecott, Alaska               0.01
+Bannack, Montana               10.13
+South Pass City, Wyoming       14.33
+Centralia, Pennsylvania         1.00
+Thurmond, West Virginia         1.10
+Glenrio, Texas                  1.00
+Glenrio, New Mexico             1.00
+Bulowville, Florida             0.90
